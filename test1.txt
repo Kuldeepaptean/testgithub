@@ -1,11 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 8202-2C32
-
- Directory of C:\Users\kanand\Desktop\SampleGitTest
-
-10/07/2019  12:18 PM    <DIR>          .
-10/07/2019  12:18 PM    <DIR>          ..
-10/07/2019  12:18 PM               359 test1.ext
-10/07/2019  12:18 PM                 0 test1.txt
-               2 File(s)            359 bytes
-               2 Dir(s)  217,262,186,496 bytes free
+kuldeep
